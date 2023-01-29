@@ -1,2 +1,2 @@
 # alx-pre_course
-0x01-git
+I'm now aALX student, this is my first repository as a full stack engineer
